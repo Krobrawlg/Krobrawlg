@@ -4,7 +4,10 @@
 
 You can reach me at daniel.lane.burt@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krobrawlg)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Krobrawlg&SHOW_ICONS=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krobrawlg&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
