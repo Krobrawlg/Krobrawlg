@@ -1,6 +1,6 @@
 ### Hi, how are you? 👋
 
-#### I'm an aspiring front-end developer currently learning React and working on a character generator based on the fantasy roleplaying game OSRIC (a retroclone of first edition Dungeons & Dragons).
+#### I'm an aspiring front-end developer currently learning React and working on a character generator based on the fantasy roleplaying game OSRIC.
 
 You can reach me at daniel.lane.burt@gmail.com
 
